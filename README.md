@@ -10,8 +10,8 @@
 
 ### ——![Basic Knowledge.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/01-13-50-39-Basic%20Knowledge.png) Python Basic
 
-                ➡ [Bài 1.Giới thiệu](https://github.com/Zenfection/Python/blob/master/Python%20Basic/1.GioiThieu.md)
+                ➡ [Bài 1.Giới thiệu](https://github.com/Zenfection/Python/blob/main/Python%20Basic/1.Gioithieu.md)
 
-                ➡ [Bài 2.Cài đặt](https://github.com/Zenfection/Python/blob/master/Python%20Basic/2.CaiDat.md)
+                ➡ [Bài 2.Cài đặt](https://github.com/Zenfection/Python/blob/main/Python%20Basic/2.Caidat.md)
 
 ➡
