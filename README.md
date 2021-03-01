@@ -20,4 +20,4 @@
 
                 ➡ [Bài 5.Kiểu dữ liệu](https://github.com/Zenfection/Python/blob/main/Python%20Basic/5.Kieudulieu.md)
 
-                ➡ [Bài 6.Toán tử](https://github.com/Zenfection/Python/blob/main/Python%20Basic/6.Toantu.md)
+                ➡ [Bài 6.Toán tử](https://github.com/Zenfection/Python/blob/main/Python%20Basic/6.ToanTu.md)
