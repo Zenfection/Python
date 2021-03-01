@@ -21,3 +21,7 @@
                 ➡ [Bài 5.Kiểu dữ liệu](https://github.com/Zenfection/Python/blob/main/Python%20Basic/5.Kieudulieu.md)
 
                 ➡ [Bài 6.Toán tử](https://github.com/Zenfection/Python/blob/main/Python%20Basic/6.ToanTu.md)
+
+                ➡ [Bài 7.Điều kiện](https://github.com/Zenfection/Python/blob/main/Python%20Basic/7.Dieukien.md)
+
+                ➡ [Bài 8.Vòng lặp](https://github.com/Zenfection/Python/blob/main/Python%20Basic/8.Vonglap.md)
