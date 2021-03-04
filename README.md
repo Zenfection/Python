@@ -28,4 +28,4 @@
 
                 ➡ [Bài 9.Chuỗi](https://github.com/Zenfection/Python/blob/main/Python%20Basic/9.Chuoi.md)
 
-                            ➕ [Bài 9.2_Phương thức chuỗi]([Python/9.2.Method_Chuoi.md at main · Zenfection/Python · GitHub](https://github.com/Zenfection/Python/blob/main/Python%20Basic/9.2.Method_Chuoi.md)
+                            ➕ [Bài 9.2_Phương thức chuỗi](https://github.com/Zenfection/Python/blob/main/Python%20Basic/9.2.Method_Chuoi.md)
