@@ -29,9 +29,3 @@
                 ➡ [Bài 9.Chuỗi](https://github.com/Zenfection/Python/blob/main/Python%20Basic/9.Chuoi.md)
 
                             ➕ [Bài 9.2_Phương thức chuỗi](https://github.com/Zenfection/Python/blob/main/Python%20Basic/9.2.Method_Chuoi.md)
-
-                ➡ [Bài 10.Danh Sách](https://github.com/Zenfection/Python/blob/main/Python%20Basic/10.DanhSach.md)
-
-                            ➕ [Bài 10.2_Phương thức Danh Sách](https://github.com/Zenfection/Python/blob/main/Python%20Basic/10.2.Method_Danhsach.md)
-
-
